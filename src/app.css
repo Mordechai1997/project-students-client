@@ -1,0 +1,10 @@
+* {
+    direction: rtl;
+}
+
+button,
+select,
+option,
+input {
+    border-radius: 14px;
+}
